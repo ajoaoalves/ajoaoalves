@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [topic/technology/language]
+- 🌱 I’m currently studying Computer Engineering at Universidade do Minho
 - 👯 I’m looking to collaborate on [project/area of interest]
 - 🤔 I’m looking for help with [specific problem/area]
 - 💬 Ask me about [your areas of expertise/interest]
