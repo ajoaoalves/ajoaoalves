@@ -7,5 +7,5 @@
 - 📫 How to reach me: [your email/website/social media]
 
 ### Around Here
-![Contributions](https://github-readme-stats.vercel.app/api?a95128=yourusername&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
+![Contributions](https://github-readme-stats.vercel.app/api?username=a95128&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
 
