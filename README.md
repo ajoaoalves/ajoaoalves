@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying Computer Engineering at Universidade do Minho
-- 👯 I’m looking to collaborate on [project/area of interest]
-- 🤔 I’m looking for help with [specific problem/area]
-- 💬 Ask me about [your areas of expertise/interest]
-- 📫 How to reach me: [your email/website/social media]
+- 📫 How to reach me: [anajoao.tech@gmail.com]
 
 ### Around Here
 ![Contributions](https://github-readme-stats.vercel.app/api?username=a95128&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
