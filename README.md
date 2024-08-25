@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Computer Engineering at Universidade do Minho
+- 🌱 BSc in Computer Engineering at Universidade do Minho
 - 📫 How to reach me: [anajoao.tech@gmail.com]
 
 ### Around Here
