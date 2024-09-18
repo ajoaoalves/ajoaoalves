@@ -5,7 +5,6 @@
 
 ### Around Here
 ![Contributions](https://github-readme-stats.vercel.app/api?username=ajoaoalves&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-![Contributions](https://github-readme-stats.vercel.app/api?username=ajoaoalves&hide_title=true&hide=contribs&show_icons=true&theme=gruvbox)
 
 
 ### Technologies and Tools
