@@ -4,8 +4,8 @@
 - 📫 How to reach me: [anajoao.tech@gmail.com]
 
 ### Around Here
-![Contributions](https://github-readme-stats.vercel.app/api?username=a95128&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-![Contributions](https://github-readme-stats.vercel.app/api?username=a95128&hide_title=true&hide=contribs&show_icons=true&theme=gruvbox)
+![Contributions](https://github-readme-stats.vercel.app/api?username=ajoaoalves&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+![Contributions](https://github-readme-stats.vercel.app/api?username=ajoaoalves&hide_title=true&hide=contribs&show_icons=true&theme=gruvbox)
 
 
 ### Technologies and Tools
